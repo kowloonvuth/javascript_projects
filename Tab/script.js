@@ -1,4 +1,4 @@
-const btns = document.querySelectorAll(".tabs-btn");
+const btns = document.querySelectorAll(".tab-btn");
 const about = document.querySelector(".about");
 const articles = document.querySelectorAll(".content");
 
